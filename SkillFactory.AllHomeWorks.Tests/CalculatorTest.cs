@@ -1,4 +1,4 @@
-﻿using Module16._6._1;
+﻿
 using NUnit.Framework.Legacy;
 
 namespace SkillFactory.AllHomeWorks.Tests;
