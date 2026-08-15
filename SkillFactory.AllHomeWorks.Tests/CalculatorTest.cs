@@ -15,6 +15,7 @@ public class Tests
             _calculator = new Calculator();
         }
 
+        
         [Test]
         public void TestAddictional()
         {
