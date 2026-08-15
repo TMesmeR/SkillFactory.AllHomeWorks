@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "tEy+S+5mYd0=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mesme\\Desktop\\c#\\SkillFactory.AllHomeWorks\\SkillFactory.AllHomeWorks\\SkillFactory.AllHomeWorks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mesme\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\dapper\\2.1.79\\dapper.2.1.79.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\microsoft.netcore.targets\\1.1.0\\microsoft.netcore.targets.1.1.0.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\moq\\4.20.72\\moq.4.20.72.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\moq.automock\\4.0.3\\moq.automock.4.0.3.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\nonblocking\\2.1.2\\nonblocking.2.1.2.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\stub.system.data.sqlite.core.netstandard\\1.0.119\\stub.system.data.sqlite.core.netstandard.1.0.119.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\system.data.sqlite.core\\1.0.119\\system.data.sqlite.core.1.0.119.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\system.runtime\\4.3.0\\system.runtime.4.3.0.nupkg.sha512",
+    "C:\\Users\\mesme\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.3.0\\system.runtime.compilerservices.unsafe.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
