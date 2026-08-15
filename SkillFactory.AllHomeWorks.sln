@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillFactory.AllHomeWorks", "SkillFactory.AllHomeWorks\SkillFactory.AllHomeWorks.csproj", "{66528DD6-8008-42D2-81F9-69DC2D1356D4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SkillFactory.AllHomeWorks.Tests", "SkillFactory.AllHomeWorks.Tests\SkillFactory.AllHomeWorks.Tests.csproj", "{BF6192E4-52E5-44A1-A538-0F8004E6FE83}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{66528DD6-8008-42D2-81F9-69DC2D1356D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66528DD6-8008-42D2-81F9-69DC2D1356D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66528DD6-8008-42D2-81F9-69DC2D1356D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF6192E4-52E5-44A1-A538-0F8004E6FE83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6192E4-52E5-44A1-A538-0F8004E6FE83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6192E4-52E5-44A1-A538-0F8004E6FE83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6192E4-52E5-44A1-A538-0F8004E6FE83}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
